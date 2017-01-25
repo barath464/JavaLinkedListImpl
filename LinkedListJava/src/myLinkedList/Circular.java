@@ -28,6 +28,7 @@ public static void main(String[] args) {
 		}
 	}
 	System.out.println("Not circular");
+	System.out.println("test");
 }
 
 }
